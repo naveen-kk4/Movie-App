@@ -1,0 +1,11 @@
+.movie-list>p{
+  padding: 10px;
+  background-color: burlywood;
+  color: blue;
+  border-radius: 10px;
+  cursor: pointer;
+  width: fit-content;
+  font-style: italic;
+  font-size: 20px;
+  font-weight: 600;
+}
